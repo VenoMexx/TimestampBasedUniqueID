@@ -1,6 +1,6 @@
 # TimestampBasedUniqueID-Generator
 
-A simple, scalable, and efficient timestamp-based unique ID generator for distributed systems, implemented in JavaScript. This implementation generates unique identifiers using a combination of the current timestamp, a worker/machine ID, and an internal sequence number, ensuring uniqueness across different instances and distributed deployments.
+A simple, scalable, and efficient timestamp-based unique ID generator for distributed systems, implemented in JavaScript. This implementation generates unique identifiers using a combination of the current timestamp, ensuring uniqueness across different instances and distributed deployments.
 
 ## Features
 
