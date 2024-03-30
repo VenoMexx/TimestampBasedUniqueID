@@ -15,6 +15,6 @@ No installation required. You can copy the `TimestampBasedUniqueID.js` class int
 ## Usage
 
 ```javascript
-const generator = new UniqueIdGenerator(); // Initialize with a worker ID (0-1023)
+const generator = new UniqueIdGenerator(); // Initialize
 const uniqueID = generator.generateLongId(); // Generate a unique ID
 console.log(uniqueID.toString());
